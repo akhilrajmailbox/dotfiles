@@ -3,6 +3,20 @@ if [ -f ~/.shell_local_before ]; then
     source ~/.shell_local_before
 fi
 
+
+# Allow local customizations in the ~/.zshrc_local_before file
+if [ -f ~/.zshrc_local_before ]; then
+    source ~/.zshrc_local_before
+fi
+
+
+# Aliases
+source ~/.shell/aliases.sh
+
+# My_Aliases
+source ~/.bash/aliases.sh
+
+
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
