@@ -26,9 +26,9 @@
     ~/.tmux.conf: my.tmux.conf
     ~/.vim:
     ~/.vimrc:
-    ~/.zsh:
-    ~/.zshrc:
-
+#    ~/.zsh:
+#    ~/.zshrc:
+    ~/.my.zsh
 - shell:
   - mkdir -p ~/.rtorrent/session ~/.rtorrent/watch ~/.rtorrent/downloads
   - git update-submodules # after linking ~/.gitconfig
