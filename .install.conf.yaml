@@ -9,8 +9,8 @@
     ~/.agignore:
     ~/.aria2/aria2.conf:
     ~/.axelrc:
-#    ~/.bash:
-#    ~/.bashrc:
+    ~/.bash:
+    ~/.bashrc:
     ~/.dotfiles: ''
 #    ~/.emacs.d:
 #    ~/.emacs:
