@@ -23,7 +23,7 @@
     ~/.rtorrent.rc:
     ~/.screenrc:
     ~/.shell:
-    ~/.tmux.conf:
+    ~/.tmux.conf: my.tmux.conf
     ~/.vim:
     ~/.vimrc:
     ~/.zsh:
