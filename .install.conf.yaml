@@ -26,9 +26,9 @@
     ~/.tmux.conf: my.tmux.conf
     ~/.vim:
     ~/.vimrc:
-    ~/.zsh:
-    ~/.zshrc:
-#    ~/.my.zsh:
+#   ~/.zsh:
+#   ~/.zshrc:
+    ~/.my.zsh:
 - shell:
   - echo zsh >> ~/.bashrc
   - mkdir -p ~/.rtorrent/session ~/.rtorrent/watch ~/.rtorrent/downloads
