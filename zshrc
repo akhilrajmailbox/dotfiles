@@ -27,7 +27,7 @@ source ~/.shell/aliases.sh
 source ~/.bash/aliases.sh
 
 # Custom prompt
-source ~/.zsh/prompt.zsh
+# source ~/.zsh/prompt.zsh
 
 # External plugins (initialized after)
 source ~/.zsh/plugins_after.zsh
