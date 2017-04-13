@@ -12,8 +12,8 @@
     ~/.bash:
     ~/.bashrc:
     ~/.dotfiles: ''
-    ~/.emacs.d:
-    ~/.emacs:
+#    ~/.emacs.d:
+#    ~/.emacs:
     ~/.gitconfig:
     ~/.gitignore_global:
     ~/.gnupg/gpg.conf:
