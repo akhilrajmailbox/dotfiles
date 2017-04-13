@@ -10,7 +10,7 @@
     ~/.aria2/aria2.conf:
     ~/.axelrc:
     ~/.bash:
-    ~/.bashrc:
+    ~/.bashrc: my.bashrc
     ~/.dotfiles: ''
 #    ~/.emacs.d:
 #    ~/.emacs:
@@ -27,7 +27,7 @@
     ~/.vim:
     ~/.vimrc:
     ~/.zsh:
-    ~/.zshrc:
+    ~/.zshrc: my.zshrc
 
 - shell:
   - mkdir -p ~/.rtorrent/session ~/.rtorrent/watch ~/.rtorrent/downloads
