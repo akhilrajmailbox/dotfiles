@@ -28,7 +28,7 @@
     ~/.vimrc:
 #    ~/.zsh:
 #    ~/.zshrc:
-    ~/.my.zsh
+    ~/.my.zsh:
 - shell:
   - mkdir -p ~/.rtorrent/session ~/.rtorrent/watch ~/.rtorrent/downloads
   - git update-submodules # after linking ~/.gitconfig
