@@ -1,3 +1,8 @@
+# Allow local customizations in the ~/.shell_local_before file
+if [ -f ~/.shell_local_before ]; then
+    source ~/.shell_local_before
+fi
+
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
