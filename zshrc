@@ -9,7 +9,7 @@ if [ -f ~/.zshrc_local_before ]; then
 fi
 
 # External plugins (initialized before)
-source ~/.zsh/plugins_before.zsh
+#source ~/.zsh/plugins_before.zsh
 
 # Settings
 source ~/.zsh/settings.zsh
@@ -27,10 +27,10 @@ source ~/.shell/aliases.sh
 source ~/.bash/aliases.sh
 
 # Custom prompt
-# source ~/.zsh/prompt.zsh
+source ~/.zsh/prompt.zsh
 
 # External plugins (initialized after)
-source ~/.zsh/plugins_after.zsh
+#source ~/.zsh/plugins_after.zsh
 
 # Allow local customizations in the ~/.shell_local_after file
 if [ -f ~/.shell_local_after ]; then
