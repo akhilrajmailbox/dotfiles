@@ -24,7 +24,7 @@ source ~/.shell/aliases.sh
 source ~/.bash/aliases.sh
 
 # Custom prompt
-source ~/.bash/prompt.bash
+# source ~/.bash/prompt.bash
 
 # Plugins
 source ~/.bash/plugins.bash
